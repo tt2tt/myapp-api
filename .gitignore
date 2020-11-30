@@ -25,3 +25,12 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# 一番下に追加
+# シェルコマンド履歴
+/.ash_history
+# Rubyコマンド履歴
+/.irb_history
+# デバッグbinding.pryコマンド履歴
+/.local
+/.local/*
